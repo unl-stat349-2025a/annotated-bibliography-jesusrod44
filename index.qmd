@@ -9,18 +9,16 @@ citations-hover: false
 
 # Annual Review Article
 
-@annualrevarticle
-
+@spiegelhalterRiskUncertaintyCommunication2017
 
 # References
 
-@ref1
+-   Summary: The main idea David Spiegelhalter wants the reader to be aware of is to simply to be clear about what you are trying to achieve, and make sure you actually are doing that. It is important to keep things simple and state the absolute risk of an occurrence, as well as being modest and stating that there is uncertainty in order to not risk your credibility in the future. Some more technical metrics can be used for more knowledgeable audiences, however this can exclude others by making things too complicated for them. These methods can be used to discuss risk and uncertainty clearly about many possible outcomes in natural disasters, industrial risks, and global risks.
 
-- Summary
+-   Reliability and relationship to the topic: The author is recognized in his role as a leading expert in risk communication, statistics, and uncertainty analysis. He has works that come from his academic background, extensive research contributions, professional affiliations, and public engagement in statistical communication. This article has also been cited over 130 times with some articles being related to discussing the risk of a cancer, illness, or similar uncertainty.
 
-- Reliability and relationship to the topic
+-   Missing pieces
 
-- Missing pieces
-    - thing 1
+    -   Fractional odds, moneyline odds, and decimal odds are weird formats and probability that I still don't understand
 
-    - thing 2
+    -   There are three catergory levels of uncertainty that I still don't understand with little examples
